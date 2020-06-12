@@ -12,7 +12,7 @@ export const STATES = {
 };
 const TIME = 20000; // Ms
 export const MAX_BULLETS = 5;
-export const MAX_TARGETS = 5;
+export const MAX_TARGETS = 6;
 
 export default class Game {
   constructor(gameWidth, gameHeight) {
