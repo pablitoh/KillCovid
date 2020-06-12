@@ -1,2 +1,0 @@
-# KillCovid
-Created with CodeSandbox

@@ -1,0 +1,3 @@
+- Accuracy ?
+- Create proper button class / Separate button behavior
+- 
